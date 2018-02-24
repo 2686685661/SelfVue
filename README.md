@@ -5,6 +5,6 @@
 ## 效果图
 ![Mou icon](./selfvue.gif)
 ## 博客地址
-[http://www.cnblogs.com/canfoo/p/6891868.html](http://www.cnblogs.com/canfoo/p/6891868.html)
+
 
 
